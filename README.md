@@ -1,5 +1,5 @@
-### Hi, I'm hawking 👋
-I am a junior full-stack programmer, software developer/architect with a passion for simplicity, innovation, scalability, craftsmanship, and agile development.
+### Hi, I'm jianhao👋
+I am a full-stack programmer, software developer/architect with a passion for simplicity, innovation, scalability, craftsmanship, and agile development.
 
 <!--
 **hewking/hewking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
